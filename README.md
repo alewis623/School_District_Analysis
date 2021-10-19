@@ -21,3 +21,29 @@ The purpose of this analysis is to summarize at a district and school level, mat
   District results by school type
   
   <img width="372" alt="District_score_by_school_type_final" src="https://user-images.githubusercontent.com/90878901/137827796-97bc11bc-ae22-4e8c-80a6-cd55ed9793e3.png">
+
+ 
+
+The per school performace adjusted for removing Thomas High school is as follows:
+
+<img width="495" alt="school_summary_final" src="https://user-images.githubusercontent.com/90878901/137828239-c375569a-780f-461d-8f90-cf5f962ece3b.png">
+
+ *The highest performing school was Cabrera Charter High School with a medium student population of 1858, and an overall passing score of 91% the per student cost was in the under $584 per student. 
+
+ *The lowest performing school was Rodriguez High School with a high student population of 3999. The overall passing score was 53% and the cost per student spending was in the $630 to $644 category. 
+
+ 
+ ## Summary
+ There was very little impact removing Thomas Charter High School ninth graders. 
+ 
+  * Math percentage moved from 93.3% to 93.2%
+  * Reading percentage moved from 97.3% to 97.0% 
+  * Overall passing percentage moved from 90.9% to 90.6%
+
+Overall performace based on math and reading testing showed the following:
+
+  * Charter schools performed better on testing than district schools.
+  * Student scores were best when the students were in a medium sized (1000-2000 student) population. 
+  * As school spending decreased overall passing increased.
+
+Thank you for your time to review this analysis. 
