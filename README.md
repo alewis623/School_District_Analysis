@@ -8,4 +8,16 @@ The purpose of this analysis is to summarize at a district and school level, mat
   * Software: Juypter Notebook 6.3.0, Python Virtual environment 3.7.10 named PythonData. Pandas and Numpy libraries were also used in this analysis. 
 
 ## Results
+  The following is the final district summary results with the modification of removing the ninth graders from Thomas Charter High School. 
   
+  District results by student spending.
+  
+  <img width="443" alt="District_scores_by_spending_final" src="https://user-images.githubusercontent.com/90878901/137827665-5b5451f5-8458-44ca-aa6d-68106fcca53d.png">
+
+  District results by school size.
+
+<img width="391" alt="District_score_by_school_size_final" src="https://user-images.githubusercontent.com/90878901/137827754-a45dd555-d967-414c-a74b-88d3a3ebe37c.png">
+
+  District results by school type
+  
+  <img width="372" alt="District_score_by_school_type_final" src="https://user-images.githubusercontent.com/90878901/137827796-97bc11bc-ae22-4e8c-80a6-cd55ed9793e3.png">
